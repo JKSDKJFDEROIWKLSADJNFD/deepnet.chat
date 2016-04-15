@@ -1,0 +1,47 @@
+
+print " ___      ___    ___  ____  ____     ___ ______ "
+print "|   \    /  _]  /  _]|    \|    \   /  _]      |"
+print "|    \  /  [_  /  [_ |  o  )  _  | /  [_|      |"
+print "|  D  ||    _]|    _]|   _/|  |  ||    _]_|  |_|"
+print "|     ||   [_ |   [_ |  |  |  |  ||   [_  |  |  "
+print "|     ||     ||     ||  |  |  |  ||     | |  |  "
+print "|_____||_____||_____||__|  |__|__||_____| |__|  "
+print "                                                "
+
+[+] DOCUMENTATION FOR VERSION 1.0 !
+
+In the spirit of keeping it oldschool, I decided to do the
+documentation in a text file. I hope this is not an issue.
+One of the main reasons why I love python is its simplicity.
+There are only a few lines of code and they work perfectly.
+
+The chat at this stage allows for users to send messages, but
+only if they take turns. Future versions might be better. I
+have used ROT13 because I thought it was more fun than 
+implementing military-grade, quantum-proof encryption.
+
+I work as a penetration tester and write scripts all the time.
+I'm really not a programmer. Thats a big reason why I dont do gui!
+
+[+] HOW TO USE?
+
+server@home~/python server.py [localhost] [port]
+client@work~/python client.py [ Home IP ] [port] 
+
+1) Start server.py in terminal eg.(python server.py localhost 6666).
+2) Choose nickname and wait.
+
+1) Start client.py in terminal eg.(python client.py localhost 6666).
+2) Choose a nickname and send a message!
+
+3) Start chatting you guys!
+
+4) When done, press Ctrl+C to abort the program.
+
+
+[+] DEPENDENCIES? COMPILERS? EXECUTABLES? GARBAGE COLLECTORS?
+
+Nah. All you need is python. I only used native libraries for
+maximum versatility. Hope you enjoy.
+
+
